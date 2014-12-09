@@ -12,7 +12,7 @@
         android:layout_height="match_parent"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
-        android:src="@drawable/kimbum"
+        android:src="@drawable/coba"
         android:alpha="0.2" />
     
     <Button
